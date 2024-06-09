@@ -1,0 +1,10 @@
+body{
+    background-image: url(khoanh-khac-vui-nhon-cua-meo.jpg);
+    background-size: auto;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 100px;
+}
